@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanmayN22
 - 👀 Right Now I’m interested in Building Apps
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me : on Linkedin
+- 📫 How to reach me : Linkedin
 - 😄 Pronouns: syntax/error
