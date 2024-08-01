@@ -33,7 +33,7 @@
 | **OS**               | ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/MacOS-000?style=flat-square&logo=apple&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayN22&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayN22&layout=compact)](https://github.com/yourusername/github-readme-stats)
+
 
 
 ## Connect with me:
