@@ -7,8 +7,8 @@
   <div>
     <h3>About Me</h3>
 
-- 👀 Right Now I’m interested in Machine Learning 
-- 🌱 I’m currently learning Python and it's Libraries 
+- 👀 Right Now I’m interested in Machine Learning and building apps
+- 🌱 I’m currently learning Python and it's Libraries && Dart for flutter
 - 😄 Pronouns: syntax/error
 - 👨‍💻 All of my projects are available at [github](https://github.com/TanmayN22)
 
