@@ -1,7 +1,5 @@
 # Hi there, I'm Tanmay Nayak 👋
 
-![Welcome](https://typograssy.deno.dev/api?text=Welcome%20to%20my%20Github%20Profile)
-
 <div style="display: flex; align-items: center;">
   <div>
     <h3>About Me</h3>
