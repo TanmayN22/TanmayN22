@@ -5,7 +5,7 @@
     <h3>About Me</h3>
     <ul>
       <li>👀 Right Now I’m interested in Machine Learning and building apps</li>
-      <li>🌱 I’m currently learning Python and its Libraries && Dart for Flutter</li>
+      <li>🌱 I’m currently learning Python and its Libraries && Flutter</li>
       <li>😄 Pronouns: syntax/error</li>
       <li>👨‍💻 All of my projects are available at <a href="https://github.com/TanmayN22">github</a></li>
     </ul>
