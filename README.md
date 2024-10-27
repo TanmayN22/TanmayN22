@@ -1,19 +1,4 @@
-# Hi there, I'm Tanmay Nayak 👋
-
-<div style="display: flex; align-items: center;">
-  <div>
-    <h3>About Me</h3>
-    <ul>
-      <li>👀 Right Now I’m interested in Machine Learning and building apps</li>
-      <li>🌱 I’m currently learning Python and its Libraries && Flutter</li>
-      <li>😄 Pronouns: syntax/error</li>
-      <li>👨‍💻 All of my projects are available at <a href="https://github.com/TanmayN22">github</a></li>
-    </ul>
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="350" height="120" alt="Cat Clapping"/>
-  </div>
-</div>
+<h1>Hi there, I'm Tanmay Nayak 👋</h1>
 
 ## Skills
 
@@ -23,7 +8,13 @@
 | **Databases**            | ![MySQL Badge](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white) ![SQL Badge](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=blue)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **OS**                   | ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/MacOS-000?style=flat-square&logo=apple&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayN22&show_icons=true&theme=radical)
+## Stats
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=TanmayN22&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TanmayN22&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayN22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ## Connect with me:
 
